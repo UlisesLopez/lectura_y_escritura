@@ -1,0 +1,10 @@
+C:\Users\Sergio\AppData\Local\Temporary Projects\lectura y escritura de archivos\bin\Debug\lectura y escritura de archivos.exe.config
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\bin\Debug\lectura y escritura de archivos.exe.config
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\bin\Debug\lectura y escritura de archivos.exe
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\bin\Debug\lectura y escritura de archivos.pdb
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\obj\Debug\lectura y escritura de archivos.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\obj\Debug\lectura_y_escritura_de_archivos.Form1.resources
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\obj\Debug\lectura_y_escritura_de_archivos.Properties.Resources.resources
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\obj\Debug\lectura y escritura de archivos.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\obj\Debug\lectura y escritura de archivos.exe
+C:\Users\Sergio\Desktop\tarea 1\lectura y escritura de archivos\lectura y escritura de archivos\obj\Debug\lectura y escritura de archivos.pdb
